@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Lithium Theme</title>
+    <title>Lea Hildebrandt</title>
     <link>/index.xml</link>
-    <description>Recent content on Lithium Theme</description>
+    <description>Recent content on Lea Hildebrandt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 11 Feb 2017 00:00:00 +0000</lastBuildDate>
@@ -55,8 +55,36 @@
       <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
       
       <guid>/about/</guid>
-      <description>&lt;p&gt;This is a &amp;ldquo;hello world&amp;rdquo; example website for the &lt;a href=&#34;https://github.com/rstudio/blogdown&#34;&gt;&lt;strong&gt;blogdown&lt;/strong&gt;&lt;/a&gt; package. The theme was forked from &lt;a href=&#34;https://github.com/jrutheiser/hugo-lithium-theme&#34;&gt;@jrutheiser/hugo-lithium-theme&lt;/a&gt; and modified by &lt;a href=&#34;https://github.com/yihui/hugo-lithium-theme&#34;&gt;Yihui Xie&lt;/a&gt;.&lt;/p&gt;
+      <description>&lt;p&gt;I&amp;rsquo;m currently a Postdoc at the University of Würzburg, Germany, working on Matthias Garmer&amp;rsquo;s project &amp;ldquo;Mechanisms of Social Attention&amp;rdquo;. I&amp;rsquo;m also finishing my PhD at the Max-Planck-Institute for Human Cognitive and Brain Sciences in Leipzig, Germany, where I was working in Tania Singer&amp;rsquo;s department of Social Neuroscience with my supervisor Cade McCall. During my PhD, I studied different aspects of small-scale emotion regulation using VR and changes in greater scale regulation after meditation-based mental training (in the context of the ReSource Project).&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>CV</title>
+      <link>/cv/</link>
+      <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
+      
+      <guid>/cv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>/contact/</link>
+      <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
+      
+      <guid>/contact/</guid>
+      <description>&lt;p&gt;lea.hildebrandt [at] uni-wuerzburg [dot] de&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>/publications/</link>
+      <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
+      
+      <guid>/publications/</guid>
+      <description></description>
     </item>
     
     <item>
